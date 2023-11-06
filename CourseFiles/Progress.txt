@@ -1,0 +1,46 @@
+YT LINK = https://www.youtube.com/watch?v=HGTJBPNC-Gw
+Current Doing - #12 Forms --1:05:00 
+
+⭐ TIME STAMPS ⭐
+#1  00:00:00 Introduction to HTML 🌎
+       00:01:56 VSCode download
+       00:02:38 project folder setup
+       00:02:57 index.html
+       00:03:16 live server extension
+       00:03:35 html basics
+#2   00:11:07 hyperlinks 👈
+#3   00:15:15 images 🖼
+#4   00:21:33 audio 🔊
+#5   00:26:49 video 🎥
+#6   00:31:20 favicons 🗿
+#7   00:34:19 text formatting 💬
+#8   00:38:10 span & div 🏁
+#9   00:42:57 lists 📄
+#10 00:49:31 tables 📊
+#11 00:54:13 buttons 🔘
+#12 00:59:28 forms 📝
+#13 01:17:22 headers & footers 🤯
+#14 01:23:10 Introduction to CSS 🎨
+#15 01:31:10 colors 🖌
+#16 01:35:22 fonts 🔤
+#17 01:42:42 borders 🖼
+#18 01:47:09 shadows 👥
+#19 01:50:27 margins ↔
+#20 01:55:41 float 🎈
+#21 02:00:08 overflow 🌊
+#22 02:03:31 display property 🧱
+#23 02:07:43 height and width 📏
+#24 02:14:37 positions 🎯
+#25 02:21:00 background images 🏙
+#26 02:24:15 combinators ➕
+#27 02:29:12 pseudo-classes ☟
+#28 02:36:50 pseudo-elements ✔
+#29 02:42:46 pagination 🕮
+#30 02:51:44 dropdown menus 🔻
+#31 02:58:19 navigation bar 🧭
+#32 03:04:46 website layout 🗺
+#33 03:14:13 image gallery 📷
+#34 03:19:50 icons 🐤
+#35 03:28:23 flexbox 💪
+#36 03:38:23 transformations 🔄
+#37 03:47:23 animations 🎬
