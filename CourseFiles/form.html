@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upashi Mitra Mandal</title>
+</head>
+<body>
+<h2>Upashi Mitra Mandal Form filling</h2>
+<table cellspacing = 20>
+<form target="_blank" method = "post" >
+    
+<tr >
+  <td> <label for="username">Username:</label>
+  <td> <input type="text" id="username" required minlength="4" maxlength="10"></input>
+</tr>
+
+<tr >
+    <td> <label for="pass">Password:</label>
+    <td> <input type="password" id="pass" required></input>
+  </tr>
+<tr>
+    <td><label for="email">Email ID:</label></td>
+    <td><input type="email" id="email"></td>
+</tr>
+
+<tr>
+    <td><label for="phone">PhoneNo: </label></td>
+    <td><input type="tel" id="phone" pattern="[0-9]{10}"></td>
+</tr>
+<tr>
+    <td><label for="bday">BirthDate </label></td>
+    <td><input type="date" id="bday"></td>
+</tr>
+<tr>
+    <td><label for="quantity">Quantity </label></td>
+    <td><input type="number" id="quantity" min="5" max="10"></td>
+</tr>
+
+<tr>
+   <td> <label for="mr">Mr </label>
+     <input type="radio" id ="mr" name = "title">
+    <label for="ms">Ms </label>
+     <input type="radio" id ="ms" name = "title">
+    <label for="Dr">Dr </label>
+     <input type="radio" id ="Dr" name = "title">
+        <!-- <td><input type="number" id="quantity" min="5" max="10"></td> -->
+
+    </tr>
+    
+    <tr>
+        <td><label for="payments">Payments </label></td>
+        <td><select id="payments">
+            <option value="Cash">Cash</option>
+            <option value="G-se-Pay">G-se-Pay</option>
+            <option value="Loan">Loan@30%Intr</option>
+        </select>
+
+
+        </td>
+    </tr>
+    <tr>
+        <td><label for="subscribe">Subscribe </label></td>
+        <td><input type="checkbox" id="subscribe"></td>
+    </tr>
+    <tr>
+        <td><label for="comment">Comment</label></td>
+        <td><textarea id="comment" rows="5"></textarea></td>    
+    </tr>
+
+    <tr>
+        <td><label for="file">file </label></td>
+        <td><input type="file" id="file" ></tr>
+    </tr>
+
+  <tr>
+    <td>
+        <input type="submit">
+    </td>
+    <td>
+        <input type = "reset">
+    </td>
+</tr>
+
+
+</form>
+</table>
+</body>
+</html>
